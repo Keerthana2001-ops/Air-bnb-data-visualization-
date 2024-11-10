@@ -11,8 +11,7 @@ This project involves a comprehensive analysis of Airbnb listings data to uncove
 
 # Project Overview
 The goal of this project is to analyze Airbnb listings data to gain insights into:
-
-# Factors influencing listing prices
+Factors influencing listing prices
 Neighborhood trends and occupancy rates
 Availability and booking patterns
 Using data preprocessing, exploratory data analysis (EDA), and visualization techniques, this project aims to reveal trends that could be useful for hosts, potential guests, and industry stakeholders.
