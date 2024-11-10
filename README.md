@@ -1,10 +1,10 @@
 # Airbnb Data Analysis
 This project involves a comprehensive analysis of Airbnb listings data to uncover key insights and trends. Through data exploration, cleaning, visualization, and machine learning models, this analysis aims to provide a better understanding of factors impacting listing prices, availability, and neighborhood popularity.
 
-# Table of Contents
-*Project Overview
-*Dataset
-*Key Analysis and Insights
+*Table of Contents
+-Project Overview
+-Dataset
+-Key Analysis and Insights
 
 
 # Project Overview
