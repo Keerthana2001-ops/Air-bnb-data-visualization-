@@ -27,21 +27,7 @@ price: Listing price per night
 availability_365: Number of available days in the year
 Data can be obtained from the Airbnb Open Data website or from other open-source Airbnb datasets.
 
-# Installation
-To run the analysis locally, clone this repository and install the required libraries.
 
-bash
-Copy code
-git clone https://github.com/yourusername/airbnb-data-analysis.git
-cd airbnb-data-analysis
-pip install -r requirements.txt
-Dependencies
-Python 3.x
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
 
 # Key Analysis and Insights
 Price Distribution: Visualizes the distribution of prices across neighborhoods.
